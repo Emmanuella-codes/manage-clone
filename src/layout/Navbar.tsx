@@ -13,13 +13,6 @@ import { FC } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { BsGrid3X3GapFill,  } from "react-icons/bs";
 import { FaRegAddressCard } from "react-icons/fa6";
-// import {  IoSearch } from "react-icons/io5";
-// import Settings from "../components/SettingsCmp";
-
-// import CanopyLogo from "/assets/images/canopy-logo.webp";
-// import RentLogo from "/assets/images/rent-logo.webp";
-// import CanopyGrowLogo from "/assets/images/canopy-grow.webp";
-// import OffersLogo from "/assets/images/offers-logo.webp";
 import { Routes } from "../routes/baseRoutes";
 
 interface IProps {
