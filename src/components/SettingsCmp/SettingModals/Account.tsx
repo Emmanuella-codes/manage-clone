@@ -77,7 +77,7 @@ const AccountSettings: FC<IProps> = () => {
             fontWeight={500}
             display={isScrolled ? "none" : "block"}
           >
-            Timi Adesina
+            Gojo Satoru
           </Text>
         </Flex>
         <Icon
@@ -102,9 +102,9 @@ const AccountSettings: FC<IProps> = () => {
           </Text>
         </Box>
         <Flex flexDir={"column"}>
-          <SubSection title="Timi Adesina" topText="Name" />
+          <SubSection title="Gojo Satoru" topText="Name" />
           <SubSection
-            title="timidesina@gmail.com"
+            title="gojoSatoru@gmail.com"
             topText="Email"
             hideCaret
           />

@@ -49,11 +49,11 @@ const Settings: FC<IProps> = () => {
             justifyContent={"center"}
           >
             <Text color={"#7163e7"} fontSize={"36px"}>
-              TA
+              GS
             </Text>
           </Flex>
           <Text color={"#FFF"} fontSize={"18px"} fontWeight={500}>
-            Timi Adesina
+            Gojo Satoru
           </Text>
         </Flex>
         <Icon
