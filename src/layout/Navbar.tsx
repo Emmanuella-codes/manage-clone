@@ -141,7 +141,7 @@ const Navbar: FC<IProps> = ({ user }) => {
               cursor={"pointer"}
             >
               <Text color={"#FFF"} fontSize={"18px"}>
-                {user || "TA"}
+                {user || "GS"}
               </Text>
             </Box>
           </Flex>

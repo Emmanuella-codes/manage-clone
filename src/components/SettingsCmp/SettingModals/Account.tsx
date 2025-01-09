@@ -68,7 +68,7 @@ const AccountSettings: FC<IProps> = () => {
               fontSize={"36px"}
               transform={isScrolled ? "scale(0.5)" : ""}
             >
-              TA
+              GS
             </Text>
           </Flex>
           <Text
